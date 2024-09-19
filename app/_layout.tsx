@@ -1,13 +1,12 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
+import React from 'react';
 import { useFonts } from 'expo-font';
-import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
-import { useEffect } from 'react';
-import 'react-native-reanimated';
-
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
+import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { Stack } from 'expo-router';
+import MainPage from './MainPage';
 
-// Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
@@ -16,7 +15,7 @@ export default function RootLayout() {
     SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
   });
 
-  useEffect(() => {
+  React.useEffect(() => {
     if (loaded) {
       SplashScreen.hideAsync();
     }
@@ -27,11 +26,25 @@ export default function RootLayout() {
   }
 
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="+not-found" />
-      </Stack>
-    </ThemeProvider>
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
+        <Stack 
+        screenOptions={{
+          headerStyle: {
+            backgroundColor: '#f4511e',
+          },
+          headerTintColor: '#fff',
+          headerTitleStyle: {
+            fontWeight: 'bold',
+          },
+        }}>
+          <Stack.Screen name="index" options={{headerShown:false}}/>
+          <Stack.Screen
+            name="MainPage"
+            options={{ headerShown: false }} // Disable the header
+            />
+        </Stack>
+      </ThemeProvider>
+    </GestureHandlerRootView>
   );
 }
