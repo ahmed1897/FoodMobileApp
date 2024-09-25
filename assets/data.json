@@ -1,0 +1,449 @@
+{
+  "search_metadata": {
+    "id": "66ee43dd2da157ca6179ca0a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2ea562547d96430d/66ee43dd2da157ca6179ca0a.json",
+    "created_at": "2024-09-21 03:56:13 UTC",
+    "processed_at": "2024-09-21 03:56:13 UTC",
+    "google_food_url": "https://food.google.com/food/homepage?q=Pizza&hl=en&lat=30.1197986&lng=31.5370003",
+    "raw_html_file": "https://serpapi.com/searches/2ea562547d96430d/66ee43dd2da157ca6179ca0a.html",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google_food",
+    "q": "Pizza",
+    "hl": "en",
+    "gl": "eg",
+    "lat": "30.1197986",
+    "lng": "31.5370003",
+    "location_requested": "Cairo, Egypt",
+    "location_used": "Cairo Governorate,Egypt"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling"
+  },
+  "local_results": [
+    {
+      "title": "Pizza Station",
+      "rating": 4.2,
+      "reviews_original": "(342)",
+      "reviews": 342,
+      "type": "Pizza",
+      "distance": "4.9 mi",
+      "address": "3FFF+5V9",
+      "restaurant_id": "/g/11p4zy1nln",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun3Jkk-x7-6dnvkdXmNd2OKyupoBtZnTMlXzjyDE3d26yN3dki42MwPArgdk-sgFJXXFRnzXwVx6ves4xVoXIRCHsw=w1000-h1776-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0sIRCj_TAllzaDQYzJJ1nILW2SLoGUCv_gagbUmF-wtblefNtatXiyVS4LRQGoPtz3JBfxd35bZ11mmZDjltDDNw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1HSW3XITdQUtxt_V8f7G-J5R6IIOOkvgz_uCvOHKKR8tl2pdCBR7_2SBVNw90zfZyJbL_DD1tHlYy0Kf2M9ltO_Q=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2CTQVbBaq9Y0Gr0A5rLp8NnGZ6UweeAT3wzNU9EAVOYhbkjfgNQj5ko_KvF3Nm8ZR0P7SAgHrZg85vC6ib5qK52Q=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0fBtetj0h_Qzc5Zg2g5om25c_VB-Z5D3GNFs6R28kg_-z4rWZ2Y3G3j43CzWxennzjrKhMLkRCBHsVaK8F8UtPQw=w2173-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0AFgFIai5eeWUfT8xXNtIUIuYFDRNHyjGisRTqT8TUve36WwPBrvbric6rmgDVGh9S4cnGaVBpFKzDghNZwPKsQA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3jZXsU7kPlVx4xq7hgkojiMxXaqX1KNfZvqExs8yPH72_oUrtHigbC9qUbt5N9RyF23Mq3A-91TvIk__hNT3Sb2A=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1q4CpvPK0pY7gFyAOzv0PGyVBcTMgvBNwHRSGzJKRbc5SalIlCC2eRpiVF61SYm7ZWKVXemP4oS0wHMy45XIL7Eg=w1333-h1000-k-no"
+      ]
+    },
+    {
+      "title": "DADDY'S PIZZA",
+      "rating": 4.4,
+      "reviews_original": "(25)",
+      "reviews": 25,
+      "type": "Pizza",
+      "distance": "4.8 mi",
+      "address": "4JJ8+H89",
+      "restaurant_id": "/g/11q3336v9w",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun25_vEpaPLELp6cTHXRbKrZCSI_xpNCUEXZngSAx6PeixaIsKVuU0QMFPsOvYIJWJpUs1iRIGshd2dogXU7H-H7AA=w1236-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0HESJiTEI8wcD_CGP74c0NN54S-Zhe859cOvEJ1RtmaaF3YWuuDWKa8WUw_QXa1uI7HgvPwAKxLK1y1eSgwtSDjA=w1608-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2-fqmaSxsqu4MTGSRsmbh4Ud_KyfPJiyFX6lBR6ohTTukjFhWt4wpIerjgkkDWxMo9HaVd0Ixr7Fq-m0NBhQhjoA=w1000-h2057-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun35M-XUzL_hcZYc_UNGUYJ66zmspnlNXd-kteBYe2P1rTOS8zbjCmsd7AhbPYsQVhiFojAv0Iz4DDcDlgFvxUjBGg=w1270-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3ygu9F9cRJLREDKlAuON8R6agHtDAzBaZkZRc0xZxXDsiYO-1rT-KG_ZxYlAm609jrwZS5Lc1A0H5S4vODq2jH1A=w1358-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun14dCr_1Y0JbbCbXqiG5sB1QlDNVPdjyjURfrqJn5dA7cBR0WOoOJKVknH_IcG6JaK4hsylkASzG52DELGlm2VEiw=w1000-h1333-k-no"
+      ],
+      "links": {
+        "phone": "+20 10 17848715",
+        "directions": "https://www.google.com/maps/dir//DADDY%27S+PIZZA/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14581bef3fa3f797:0xf66f65416aa9adba?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABAv"
+      }
+    },
+    {
+      "title": "900 degrees | Polaris",
+      "rating": 4.5,
+      "reviews_original": "(398)",
+      "reviews": 398,
+      "type": "Pizza",
+      "distance": "6.8 mi",
+      "address": "Polaris",
+      "hours": "Closed ⋅ Opens 12 PM (EEST)",
+      "restaurant_id": "/g/11qqfb70kj",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun2DHOn6wM1NtIci8k4WAcdj95LV5jYzB-RirashC3AqokcOpuuliZKnLMAHVSIhhM3kUsN_-uGlRTVSwtWeQXOYjQ=w1000-h1250-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3MYfwNJViD5H6oybC7yBQfzt3I0j0D4c1dfUUu_ItH8T8_-uMoqdZwvivq8Zaduv1qjvp4E1HoIf4tUs3ojsY5-A=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3oVSGz0-Y4GwxIIvS-NVtNGx9SyIkOVvY_YiXBU4thOBY14irFzlnxJLyUVgSEj96BBz1NdYLeYlJAjdBNU9KSMw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1L_4KqriZcbNaVMJeQ415MmjZzOd2c8bSGfFyKT74pslnPKWQuyfl3UJYiolXTZxJroCHV70gUUX0LxCZVWU8_=w1000-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0_56Bwm-yPZZlQXRnx-2Acejmj3kEKG_O5hwbf90TeKmLYCTD5OsGPeIw6xWebaXa9hY7XLqiTDs7DZDb_QBvAjA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun09jnGXjkpJnRzzvyAGIrGQosPNGCV9v-HkxzHVDT01nGx4SuVv64QI8C07P2H6gtnJFQdffxR9CIDytL2A0gAeUA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2UmYjX-i9CgDnxjbHqzP0jVaStBrWAiuQjoCpMEIYl7vE2KdwlRuYEFhqMZjE0gTKGUXtpbzD6RNE1S7nGXqAH8w=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0g3pTPfjSOyVGxshb9cWgUVydvWmyDZDP0_Dt1TSNGcw0bU3HZiFwlP0ppQGOoGo9pPK8RbxR-kqVNPNmhvcfUFg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0ypKrv3WG32It5Nm1EEruyjVZfG9u9bUjrjPetUEMOKdjQY_7S6A_HP6sc-JE8NWkm8x3ya1aABoRh7Jk_Xf3Hxg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun29ER-s7ofelXFML4jbYOmTbEwVJ99jD-peB966WkuZPScga67mHE9U2aiaEew3b7raYJVaMCCAdcL0SFOoo-hnzQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3I_NYB1CPtweCF56EK_YJqiXkK11QKSzd4AssJX2-fVoj2IQJBV5ulIRt94Zdzej3SkhFwHrAHEkQYwbovgX1NJg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1_Z3SSJjIkt6mKfRofLZwk5Gp_mOG9OptggrOhPL3HZVFNyspDC8HFcGYweFw25Gi9cQD5oTLbkf0OoyIE0ROCSA=w1000-h1333-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11qqfb70kj&orderType=",
+        "phone": "+20 11 11666912",
+        "directions": "https://www.google.com/maps/dir//900+degrees+%7C+Polaris/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x145823a4cd869a1d:0xcb397bf424d951a8?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABA4",
+        "website": "https://www.instagram.com/900degreesrestaurant/?hl=en&sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegQIABA5"
+      }
+    },
+    {
+      "title": "Vinny's Pizza",
+      "rating": 4.5,
+      "reviews_original": "(813)",
+      "reviews": 813,
+      "type": "Pizza",
+      "distance": "6.2 mi",
+      "address": "Al Sadat Axis",
+      "hours": "Closed ⋅ Opens 11 AM (EEST)",
+      "restaurant_id": "/g/11l1q8tq_h",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun3Q5l3pbiTGA8pYoyHV7cokpDo6a-GHwX6geTH5DfA5OPNIdVMIU44fKxN5kHMXtZy9LdaQuDJF0dIlODifByZADg=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3lWmtQYwvNk-2vB0PPvaorF9R89XS-GdEbOc5GBfSbLnN9HMMRPun_70Ykpjuy6VK7YWMZn3WxnSJRUemXhBS_=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0sN7si7QEnSzMsyuceV4poxM0-WFFzS8U1INTypChibmfSPbQ2nhyRHltaZO32Rf8h9YczwBiMcdzIw8hTNEALmg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1hHjSNf9cMhFklW1hzqcYDbqyefLQv_ZqwC1rrmsMhINZQWpU_gVSWJnNFLJ4bUvlKu03N76eilpZbhN4K7T0csQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0EUzIcWsumCbBGTgY-s6ozn-wmnCZHJoWhsyfDnxYk2_GhS-8APDdA-m0MJXTp87dYq9sasvFt9C3-fOShZoiJRw=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3yokYWpSQvklFrVWUJaJ6sozTk10a2X1WB8gDVRGT1et5MarvDW_cbVCKLO3fmtS3LRm6BNGprjgGKUlhCEVDvKQ=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0wwfvXIAbRu4_05vPg0Qvb7uIVb2qhlw8CCnSdBkLTxNsWtwYOUdHixkzJAwhCmsA4lMWEzn6ziNK5J3EciD9kPA=w1113-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun285w89UNJRpi0blcG7omiAJwRvyn6nvcTecvf4dDf_jZ0hthA6B2IRaYiAzieRwyouGmugb3wPN4DvF9e2wfBPjQ=w1000-h1333-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11l1q8tq_h&orderType=",
+        "phone": "+20 10 94328357",
+        "directions": "https://www.google.com/maps/dir//Vinny%27s+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14582304d7ec455f:0xcbbbcee96eb70e8?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBC",
+        "website": "http://www.vinnyscairo.com/?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegQIABBD"
+      }
+    },
+    {
+      "title": "PIZZA DI NAPOLI",
+      "rating": 4.0,
+      "reviews_original": "(359)",
+      "reviews": 359,
+      "type": "Pizza",
+      "distance": "5.2 mi",
+      "address": "Commercial Market",
+      "hours": "Closed ⋅ Opens 10 AM (EEST)",
+      "restaurant_id": "/g/11csqyd0p1",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun0e0vxlsFlBRbW1YfWjWvSVSvVu07W92acPz3IpGwsVq4PymkXPgqI43MQK0B6W63RoBb2AMSyIfHZSqQ4Voooe1w=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0_UX_0pNsdQAoLQcF3428T_PLWiyWLcqrPT8gBHbzKr8D9QbEqLlJXsQ-zZGWqQXPmQbQ4pe8o_aF2JrL0IEfU=w1393-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3tsMUcGGfm5wGf171avYVPHkt3X8_ScTxqjqH5Abyj6qWqV72EjSsL6bsKdWu-2zBdYXiCnX-tUKdk9Vi-FQ8vMA=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1vjFrXIN61Wdas6uVHyphSi1vazOz6TYz4DkrFwg0TnlixJ6H2D8HtgWnvF_kwDP4iXmz6nu1FXx6mDD17CnRg=w1912-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1I1wNoWtSfTl7MKioge8eL5akHr5oCRzV1BOnCeP6CcUAfHhXw68KAGJfaIr5yusyzvoTGZ7PWFbaJ_Qd4xWOqvw=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2pKAM0M8B0NoUmhZAvs1YyM3Cke4QuL_lX9-ZiSiQ23VWTSBKkKAX2OhVWH-TlT0UeHNYlw41RRyJd7vKiwCwXwQ=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2jpA4sOLwXV1ObUUnWfNK5_AUJnm8DzcTUY2Ao-1AzcyxaqAqxICfOvvlesXUBsX1mfVBfyS_Ur0-9T_jtI6txkQ=w1000-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3Hjza3BSuWSQEFUGuJQFdXVenRA1Qvp5XCWaHrqA4dGUUR6j33ZdPvzUei_x9Ps9svPMxMZIyq89wpINwRfL4Xhg=w1000-h1000-k-no"
+      ],
+      "links": {
+        "phone": "+20 2 26078484",
+        "directions": "https://www.google.com/maps/dir//PIZZA+DI+NAPOLI/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x145818876f9ca001:0x8d3c488ce545dc4c?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBL"
+      }
+    },
+    {
+      "title": "Pizzeria Di Carlo",
+      "rating": 4.3,
+      "reviews_original": "(79)",
+      "reviews": 79,
+      "type": "Pizza",
+      "distance": "3.6 mi",
+      "address": "G68 Eastern Market, El rehab city",
+      "hours": "Closed ⋅ Opens 12 PM (EEST)",
+      "restaurant_id": "/g/11h55sv4fs",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun0c2dNd27-4H-ZxvGhVtBm7_AH0X2OE_bvz1L76bTHUPFu3FwLPetHKlxWrdqePV9VSf_3lBrREiUHs5Gy6UvdfSg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2hvyZyPXZyWsSrKsQ-HVdNQ5IvXyM-g5zEIURMeHXU1isgSfqbUV41ANiRJvVzQtss4davR5JNvL_1XDTCBopnAA=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2Cq4XNReg_3sHHo6CSSU1R43QCPNeQMcZ-X3LT1PNND-STN2VUqW1w7ChFCvKx6RlU5O0aRy4vf2dvFaEvsXq1qA=w2350-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0jgy3eDj3M-F27dVxzCtDcSaFRsGUXc5ZVW5VJeIh6sLFuodl6erkbJFq0_-WaYSI5KVusjbrE3HVZTHeIE0xjPQ=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1dwrIcXVA_l4JvHF0Spn_eCHOWgsl-bkIECymSfLJUvRzd1s1Dul1IkX2TG-iolkmgL8KzHeW8lVbo-eZVeMw2eg=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2B_mpfU1p0DgbaB7qC358sNmVtjf1sVl2qLNkJUUK8CD__Fu4ZXSs12eNIhnxbYFYPg9Vx9r0eijRq5Zsq7xRD4w=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2ksD-GHnEtJGJvKrGBQOSiGu0giRoKVvY4hfvpKTkvBvGk951w4r63TOhwqtm2SlVkJlx7xT2uxgC2j0BG1qo8bA=w1000-h1500-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2Vde_K61WeJP_UPUbT6gH1pdQdW-kDAHJYCDOQiotOWoyvsxz8hPa89baW2djTnsKtY_h89zeakSdCZh6yjrJe6Q=w1000-h1250-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11h55sv4fs&orderType=",
+        "phone": "+20 10 33822122",
+        "directions": "https://www.google.com/maps/dir//Pizzeria+Di+Carlo/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14584170ce37b9f3:0x3decfad61fde6379?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBU",
+        "website": "https://www.facebook.com/PizzeriaDiCarlo.eg?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegQIABBV"
+      }
+    },
+    {
+      "title": "Pizza N' Creams",
+      "rating": 4.6,
+      "reviews_original": "(53)",
+      "reviews": 53,
+      "type": "Pizza",
+      "distance": "5.3 mi",
+      "address": "The Yard Mall",
+      "hours": "Closed ⋅ Opens 10 AM (EEST)",
+      "restaurant_id": "/g/11v0dv0m1f",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun0Zj2Z5tn-0oMmW9eyiAEERzTBOYWPIBGTHuQXmR3_AqdTlVYSVQriPdY4COAnj3I4qnICo-Czyci7_tv5EMs4AFg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1M8UIM0bxViDeVavYx8p_LPV2Yl97WgwSESgYHrseExPtdHRtusn7b5i39DY7ZR4kCWzeLA6TeKSAa7gzaAzas1Q=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1Ail4fEaseIQ6kfQkBnxi0cIZpDwnnKX2y7dU5I_wld2uG6oxAoX0IiCop2sKeKX71wwMLY5y7G6a88HbV-e6aGw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2GzsD3enRRGzi1z43LNM058s86KnfOfs1-ZnGtBOFzIUXin9RDgm-AC5f2aWOYKwJ9ojG4euTBprwoYaS9zk2_WQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun14jRix5a5aRL7ZOw25GZJEU2ac4RtEebsm3FAqxyURIwlXOt1DfwcO8xJZPpFeDL5i8f2GWBpgEgfmfJokwWDWwA=w1000-h2167-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2J_08D6kFp7apwvd77lCIYBsp7S3PoyLHWnnQ8riBocz06C6uoSo0gNZsCJye1Fyxfw1ezFDzbG_KrWdkwqM4xXg=w1000-h1139-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3tu0jl1dKZE3HOxW3JYkbVTwqlRS8yNgdqpcJvouAq2LPMNNl_9Th6WwnAlmlZzPYHidJpjwoZ7ui3ZzHgjOs7jw=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2FAu5QFn5IBewpNCPpTqcBYzx-t-8O8repWYBPJoNcW9bSaYRyqeLG6MUQ7aDh3mSy8fc4N-OWeP5F89oj8vU8CA=w1333-h1000-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11v0dv0m1f&orderType=",
+        "phone": "+20 0215257",
+        "directions": "https://www.google.com/maps/dir//Pizza+N%27+Creams/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x145819f402d4ea03:0x528cc11d88cfc622?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBe"
+      }
+    },
+    {
+      "title": "El Sultan Pizza",
+      "rating": 4.1,
+      "reviews_original": "(1.5K)",
+      "reviews": 1500,
+      "type": "Pizza",
+      "distance": "9.9 mi",
+      "address": "Unnamed Road",
+      "hours": "Open 24 hours (EEST)",
+      "restaurant_id": "/g/11fl902nbm",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun2YfynIveqT-6jILkx8TnIRVPkHI6HXmBnSHM-qA3bU_pp-5mV1ezsfgnfFNcSDvxckCFR9ZtCtNzZAKo_SlH_cEw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1sRnZOnJK8OO2t6IeeAM_MVroN8w-gG2ZQ4XBDCXmGx7G1zy01YFfeukfcTxBOJoB0Sa2jJi3njGnLUaEq4iirmQ=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun35ro9oFGWbo4D4hb-WRYqoVzwKnAUZKnD66VPT7MrXFpIVDt-wYxym-NNz6kwO6a2tlWSqzejFAiOkY660b0yMYA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1YdzLTR82OrEKDrGOu7aHxgXzpLK6jIN69eXxxwKZqSLDgjKmIemQdRJoKyz8T_wQG5GLYh5WLIbbtbcMpmw3VBg=w2222-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2OKDk_0GsaXKEcI_T7-9aR7rXpb5Dk0u0y4VcNUbUhke2pTxK1xQVVlY9oA3A-oneCZlVH6aEyXkjdnXr1jYs8Kg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3s12MVPTGFyeJAEOnIliorm59E_dmvgWWOjA9jcpUUw_1mz9aBGT2EKbI61k_E_2kLX4wVA7NK93nhf9wLgnNyfQ=w1000-h1331-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3NyLM1qMdxztBVZc6C6csL9D-AtRCFUI8uYP_EsHueKKnNAyaoUIoQunx9waY1p74kYMyZ7FMADSrBo2Ba-SlYRQ=w2057-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun10l0oCRemGSEzA016ngHv1JfCK0C5VqA0hmy1naqWLgy30NrBp3TFryeCe3qjgxNKMMOrBPS8uJ2F38nekRM61Xw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1jbThWuW2Ys5b-fc7eIcw9eU0qSZKVLiGJAahJiY9i4rdCOifnf20O_nPXZjaoN7kZ8QJhalfeECwCbNDVDe963w=w1000-h1333-k-no"
+      ],
+      "links": {
+        "phone": "+20 2 22748080",
+        "directions": "https://www.google.com/maps/dir//El+Sultan+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14583dee6b14da85:0xd479c05472742a3e?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBm",
+        "website": "https://www.facebook.com/Elsultan22748080?mibextid=ZbWKwL&sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegQIABBn"
+      }
+    },
+    {
+      "title": "Domino's Pizza",
+      "rating": 5.0,
+      "reviews_original": "(2)",
+      "reviews": 2,
+      "type": "Pizza",
+      "distance": "3.7 mi",
+      "address": "3G98+WV4",
+      "description": "Delivery/carryout chain offering a wide range of pizzas & a variety of other dishes & sides.",
+      "restaurant_id": "/g/11vbv467yr",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun2un5YtlgaORlKyw7YoMPhiMtztSubvEeYe5WE8_9uwnvnLK9Qujs0RVaRH2JBGQrC7AuNDs7g0G7Dq9zikrgkZHQ=w1000-h1777-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11vbv467yr&orderType=",
+        "directions": "https://www.google.com/maps/dir//Domino%27s+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x1458192862610057:0x52ae96d0257e6908?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABBw"
+      }
+    },
+    {
+      "title": "Pizza King",
+      "rating": 3.5,
+      "reviews_original": "(32)",
+      "reviews": 32,
+      "type": "Pizza",
+      "distance": "6.9 mi",
+      "address": "2FGV+W75, Unnamed Road",
+      "description": "Relaxed, family-friendly chain serving up pizza & sandwiches, plus salads & desserts.",
+      "restaurant_id": "/g/11q34xj1js",
+      "links": {
+        "phone": "+20 12 88835552",
+        "directions": "https://www.google.com/maps/dir//Pizza+King/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14582373deddce17:0x26a18894b8041b29?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegQIABB4"
+      }
+    },
+    {
+      "title": "Papa Johns Pizza",
+      "rating": 4.0,
+      "reviews_original": "(1.1K)",
+      "reviews": 1100,
+      "type": "Pizza",
+      "distance": "3.6 mi",
+      "address": "Store Number 115, Block C, Eastern Market",
+      "hours": "Closed ⋅ Opens 1 PM (EEST)",
+      "description": "Pizza take-out & delivery chain offering classic & specialty pizzas, plus wings, sides & desserts.",
+      "restaurant_id": "/g/11ngym4vg2",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun3ubzVvyBS1qGGJcdky8ZrUW2RiciJwDxv1ON57MwJM_EEoz8Y1Ynp-2AQ_ZhZT4lHP8LLhwfie7QyKtLn2HK1zAg=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1GFmGgm7s-X9nFxZ2tCfxmnBJ9Xgj7fvJyrk8EGIB-T_fTCf33ia3FicNBkxzyL7Poyh2r0_vngXAAukvMCveL_w=w1000-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1nmbQa3tU1M_MUxZF4V1XbBCx5fDBFbnP8NQIcEmj0d3ee2quOCr0QjXHLO_cggY7-Gl53AGW7BJSQWiULeND-rg=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0AnevMo3kx7yiZJr1o7DPQo72yLCgYu7BvmItXr5dARR5w_PDl194A6_I3tbrb4V7zafIXNyXtn0e-QxMmMxmXtA=w1000-h2057-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0dQ8-k5DWUATq5geMY2EkcxmxkgBKuYG3JPn7dwkF7V0oC8fn3EEZDjbPyGbTys98md0UlbC3OpMdhHerxDwgj_w=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2M4EKzO205Fdy-zWylOa0xnpBkLkBwj3JGN7QMzBJ3PpJbw8I16NXdUtdQGpc8I-jxgMIaf7yXkps7v0EyCIPHSw=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0nCmyjl0vFL0RKx7UUUmU7gsBOUKGObDaEWBCVz1pvcWttSJ8euAyrVjfZRS08iNMZ-NhJ2NHn9RGIgJ37ICskvA=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun13m9YUcaURjYHjBqCUy4IDUkrs34Nvyl3bKu1D5I013XpG8ST3UugI-Z0gXniEuRaAab4UJbSuMNqDxy4ycI-AmQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3JVtSHE7NF8244Z28XQlvtTtfAHFU0X0bECQemLbzm-vTuWWJiiSaE8GzgPpyWFPXG67jlmIqhiB5lRuuEW-xKzQ=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0ovTOyWmAv4d1latS6HL7Mp3Y3yDuK4Y7E9ryzdMJiTFBUYn4dCZXeJms8HM-rgBA3Xf4W1o0c2XgZNaTSM5_WzQ=w1000-h1000-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11ngym4vg2&orderType=",
+        "phone": "+20 10 29970931",
+        "directions": "https://www.google.com/maps/dir//Papa+Johns+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x1444378306c5bae3:0x7bf6ce73058f3423?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABCCAQ",
+        "website": "https://www.papajohns.com/international/?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegUIABCDAQ"
+      }
+    },
+    {
+      "title": "Primo's Pizza - Madinaty",
+      "rating": 4.4,
+      "reviews_original": "(416)",
+      "reviews": 416,
+      "type": "Pizza",
+      "distance": "6.7 mi",
+      "address": "South Park",
+      "hours": "Closed ⋅ Opens 10 AM (EEST)",
+      "restaurant_id": "/g/11rmw9gyql",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun18EJa99hepGhS4rVSULcKUMmT5uK3T2rJmgBAcYLTqhLw42C3gejzoVKVc2VqPOiIMESlI23JzWpQphyu4ftAhtw=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1bjMC97RTT6RMHAYsNAs6npJOLplMIRB6bIJKf_KMzHXbZO6QEB8bdXAjk5IOWjGsp1q2NrEo3E6o0-r7OGaf_XQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0VRdvvc_anq-mYK_w6jXH1Jev729r6VmjrjHUN14dGNozToPUFztS8Hf4wXxsUjekPzxIf-nuHh-J_Gx91XC88JQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1c22dUN_4Gr3QHvR_6Vpq1LvDv-mF6LS83ViB21yIxvYMsy6xVI67ajZSHVO4z522nLhhr0MfM-zxbDNKJeuFltA=w1000-h1776-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1dBhSxrWuaaZJTxwqvuzTVRmHUKO3UMXcJg8E2urp_KclkhlZ-sREpJwG-cECwA-bvT2p34fqDItq-H9d5-aE69Q=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3jrurR73xgYo9R4_FCESIibokyfaZ-cB7mjxnFryQ24fdaxADITIV-Ss-TtOlQE4UpyC30tluoe06AX7fiNzObgw=w1204-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3VfKy74-PDkjJxFERtDkoVbm3oNt2J2DrnDnX8yM5AdSYT3wVoloXvMAQocdnA-Se-LS0f91OpVwaJ03V0wMxeKg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun104gffWuip4Zx1nODOF4_PkQffShVqh07tR8EEKWf9N24P_VzoN4EerzbzSwAlDZSsHKeQbs743647QTG8Ya94zA=w1000-h1777-k-no"
+      ]
+    },
+    {
+      "title": "Roma Pizza To go",
+      "rating": 3.7,
+      "reviews_original": "(13)",
+      "reviews": 13,
+      "type": "Pizza",
+      "distance": "4.2 mi",
+      "address": "4J74+PHJ",
+      "restaurant_id": "/g/11vpzv85_l",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun3mmJm7D7-GcLfrmca9sPl5YiTf940T_GUVjodX2XqHZOQhbC1WJtt-izgcesqcnwzc-DIFRBUQhCBV7YEmjCc_2g=w1333-h1000-k-no"
+      ],
+      "links": {
+        "order": "https://food.google.com./chooseprovider?restaurantId=/g/11vpzv85_l&orderType=",
+        "directions": "https://www.google.com/maps/dir//Roma+Pizza+To+go/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14581d001301a115:0xc2f3e4b5482f06fa?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABCQAQ"
+      }
+    },
+    {
+      "title": "Milano Pizza",
+      "rating": 3.9,
+      "reviews_original": "(18)",
+      "reviews": 18,
+      "type": "Pizza",
+      "distance": "5.7 mi",
+      "address": "3F79+C62، القاهرة, القاهرة الجديدة",
+      "hours": "Open 24 hours (EEST)",
+      "restaurant_id": "/g/11dyqqr53_",
+      "links": {
+        "phone": "+20 10 04873800",
+        "directions": "https://www.google.com/maps/dir//Milano+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x1458180d2e3c595d:0x5894d3cfd12181bd?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABCXAQ",
+        "website": "https://www.otlob.com/egypt/milanos-pizza?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegUIABCYAQ"
+      }
+    },
+    {
+      "title": "Pizza Bite",
+      "rating": 4.9,
+      "reviews_original": "(14)",
+      "reviews": 14,
+      "type": "Pizza",
+      "distance": "3.6 mi",
+      "address": "B135 - جانب اورانج، الرحاب - السوق الشرقي",
+      "hours": "Closed ⋅ Opens 12 PM (EEST)",
+      "restaurant_id": "/g/11tp3g090q",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun1napIjx56hyh5Cg9yqGnmqhtoH8ZAtYLXGmfkoDMplYq4M5Glh43Q9mIDkp-n0mGs71yNlEL_0uRnWtldcevbWfg=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun22x9l70U-7ZER_zmdp-BaxfQQCanxEAJN67Ri7LfPSNO4cc04lf_4aVLdeBrGPoUhsENk9lsMrq7X0fx9J6cLvWQ=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3uBZKHh5aeVSX8BMmxiflkc_Eu7RL-SLu3D497_juvFkeNaQC7Et_ldlRMelrZapxPuV6J9Hvr096S81e8kFqzbw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1BgXaah0XrYY6PdkULXcZyNODfU7gDTrSbCiEd6xoN-_cMPeV1J-h90zMuTYbt9FSyqKDSE2PdcfLGKkP6vzfNjw=w1656-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0Jem8u37kijgFKg-D4wyqNdmCFjck7XSygtdBJ7SwT5WvwCyrloAMzPyNDrFWcvNhHlTrSiGQf_iN7mqDVRLxMJg=w2217-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2RV-oRi0B6jwdabaiS7pV-urZhNKj7tWvGUQnNKPNberIBbY0LSIi21oVXMtgJczSgmbvSEAEX_-87xcjLu7yQvA=w1000-h2217-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0JZntMXlXaQDqaYT_QzmWiD7pvmIHF8mzPSayT91kvhvBkp0yQ95GNa-W4a25VsxacyX8cyhJbbXJ0zqfxPKOFPw=w1000-h2217-k-no"
+      ],
+      "links": {
+        "phone": "+20 12 77774182",
+        "directions": "https://www.google.com/maps/dir//Pizza+Bite/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x145819860cd00c13:0xf95c84de79ede768?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABCgAQ"
+      }
+    },
+    {
+      "title": "Pizza time",
+      "rating": 3.3,
+      "reviews_original": "(24)",
+      "reviews": 24,
+      "type": "Pizza",
+      "distance": "5.0 mi",
+      "address": "5FCH+PC4, Road",
+      "restaurant_id": "/g/11spwz69sx",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun1rstATybkbqFhPZ7edWCD0SMmI8TTMe7YrytgyTBOafQzmx33KtLGLn163bowpt3zw1OA1lIr3nSfOa5kY5POlXw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1AB9h7mN1ufbf9zogaXEVistyHrT6vy1B9hQ01F_fU6sE5uoFze2AsgPAyVhfpfXgq0HgP6CBT8vL_RVgMa4nKuA=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1fk9ptB8ZX57dp8WZIV1yZnFZqlEyePLF23eJWSzMe2XCw-0eJo_TsBNCQELgVLhKF3Zt0ttIj_0IxTiBNBUjkjg=w1000-h1104-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0v2fF9bLbBaEJaiYjL7O9_IigSm1mrrO3C6q4PjwWIrXe3-f5rJtXRf9g7BL1Pe9jeicM07CQ6Q534nVCzZWZcfw=w1431-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0__JDJUIgqF-XCMkNPOA0K_OAgrkZdbmCOFc7kbAgelpLBkJkQ_5vMN_bWwgMJq_Te_DbDRJ8r8T1Vy6jynFygDQ=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0IfSG9lKz51G72tWNBDEhdFNl1RZjzlEd5ZSEN4we6_Cp-7r-kTh2TkCP9aGZSAgMlgeNTGgofs9aq-2MIeScAYg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2iZVkcvgMAzvf1lS_fIXWKKBgtIAdqzL3JNtqSf7nWxjhE0V3zUpRxQAe_THvbOG62nLtEsJyH9XpdLQGGitdhGw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3r15N7mKfvsowFZkImHidqa04VW6GsWy1ohfGtwVF81cxNrsFvf34S0MWxsW-bXOToM8CpdnQB3G0WdkyuAmq8kw=w1000-h1333-k-no"
+      ],
+      "links": {
+        "phone": "+20 2 22626404",
+        "directions": "https://www.google.com/maps/dir//Pizza+time/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14581b69401fc6c9:0xd1732e86bfa376e1?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABCoAQ"
+      }
+    },
+    {
+      "title": "Primo's pizza",
+      "rating": 4.4,
+      "reviews_original": "(127)",
+      "reviews": 127,
+      "type": "Pizza",
+      "distance": "5.0 mi",
+      "address": "Near",
+      "hours": "Closed ⋅ Opens 10 AM (EEST)",
+      "restaurant_id": "/g/11vbtmwtzl",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun0RCRxwijy8qEY2s_qYyPwzK-UX_wRxLbopOTVHu1ogsIsxS3JKuhRPwhO0C6UWAAFeyPlLrAO2thv8huZZ2vLarQ=w1000-h1243-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0Easomnn1eh_QGN2Aqe-yWH13tw7oxuYBpLYr8p8c1lXuL7XacUo5mX4ShlrHkrQF-k3qsdxBeNmeL6SQrgut2Rw=w2222-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun28k2dsFdMlcWZKxF3Lg8mYMTDeuoiE5ap05JjPTEiLENK-pyEednwaCGDSLDUPwrzcz5sA8B4VIzBd5LsBeMh_0g=w1000-h1248-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2Vj2ClOCZaA0gslC-GzkqC1sqECKL_3lrqDOmEufvUeiHtu1FCDECaUjy0F-4k4B-n0t7AdFgffBNCqGA-OwULFg=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3MnpqrIOqjT0BfasWRaYMN28zqTmJvxNJh0exdbSIvqBG4VGj1UZvB3kZfqvG8d3xB6kyE1vEdVFxAVgv7M278Zw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun07fWKuKrxAYBhC0eKmMCVDQEF-LK81aFzMImuR0PiYAvgROl7qLIf_JrchiAv-tvPcz09o2Y9TRlkYrqe_Gx7IlA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1kp-wwe_OfD8Qf1JAAXXloAXQSjnDZF0EJuSd7ZmhlSrf7zcS4nXfLvPjqUA-KLhH0VAlu0iUUmGp_RFZ9vMuPCw=w1000-h1250-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1C4p30qPyHEte9GRbXJhga04M81mYCHn17SxquO67QMjHnNi11Aiumvw5VBFk4Ij6KbkV_U-kAA-OEW8mWOZfh2w=w1000-h1328-k-no"
+      ]
+    },
+    {
+      "title": "Primo's Pizza",
+      "rating": 4.6,
+      "reviews_original": "(8.2K)",
+      "reviews": 8200,
+      "type": "Pizza",
+      "distance": "11.3 mi",
+      "address": "177 El Hegaz St",
+      "hours": "Closed ⋅ Opens 10 AM (EEST)",
+      "description": "Generous American-style pizzas are dished up in this pared-down pizza parlor & takeaway.",
+      "restaurant_id": "/g/11cmxv86pp",
+      "images": [
+        "https://lh3.googleusercontent.com/gps/AA0Xun3BW-LsZAEnUdc6MFV0yU0pV3xVX0FIyGwQvdea4ZKAotjHIG-FUiwPMO8FX74Bxun4nMBnaV6ACblsbSCetacJqw=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1u6SonVErTnrbm-ats2C6XjutlFjVx3PilYbvG_b-2MZDntsa5J1X_8MEKz6rd4-7YEdO6V71yTFRYxMdLlCYJnA=w1000-h1777-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1pGI0zlyQZHOlc8Mcf6OnuHVbp-9C8FKce46ttJkwr_Y4ak-LelrxKlLGfWVD2a_P0atkS1O1cusw56M2AoTvf4A=w1000-h1778-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun3U2Q8ezLzBn5COFrHPFiMw5pPgZQ0SHKbKBoyk2l9A41IZAsliRiNcF6H3JQtK962dSrGDBLvbjhfGdv20uqqv2g=w1777-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun1QZbNB5MIf0uOZKuCDdy3r-3lHox3i9_Qr1EAco1Tlqh02tlRrPgmHntkt1NNMFsfqA8F2AiRTvSd30jTX5t9icg=w1000-h2166-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun06ahr_4KskFc0q-1zdbzjvbGzHFrC_Du_X-XAZ2G2fAUCroXw1er2C6leD7qlianc3YEreV0zn601nTuN_juIVBQ=w1333-h1000-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun2SwM835S0WrR7wHlXgmgiCO7iyiv953k_5VbINL-9txgmcifK-HsfJM2IK830be-28Rv4W_L8r0Y0WqcjQOWm3yA=w1000-h1333-k-no",
+        "https://lh3.googleusercontent.com/gps/AA0Xun0Q4Yu7BPjf9Mx1DH-l1bWtky8GSxForNx8PKypGl5PCAJFqtNNtdstkRxZfA_5h2seAmhPOI9uwcBFPsvu9Y_n=w1000-h1333-k-no"
+      ],
+      "links": {
+        "phone": "+20 2 21812026",
+        "directions": "https://www.google.com/maps/dir//Primo%27s+Pizza/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x145815dc01900001:0xae7710fdce1285ba?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ9LIJegUIABC2AQ",
+        "website": "https://www.facebook.com/primospizzame/?sa=X&ved=2ahUKEwjSqsmYktOIAxW1gC0JHZZUGcIQ-IkKegUIABC3AQ"
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "W1tbImdXdk0xZCIsIltbMV0sXCJQaXp6YVwiLFtbWzEsW251bGwsWzJdXV1dXSwxOCxcIkNCST1cIixudWxsLDEsXCJDaEFTRG1OMWFYTnBibVZmWm1sc2RHVnlJQUU9XCIsW251bGwsbnVsbCxudWxsLFszMC4xMTk3OTg2LDMxLjUzNzAwMDNdXSxudWxsLDFdIixudWxsLCJnZW5lcmljIl1dXQ==",
+    "next": "https://serpapi.com/search.json?engine=google_food&gl=eg&hl=en&lat=30.1197986&lng=31.5370003&location=Cairo%2C+Egypt&next_page_token=W1tbImdXdk0xZCIsIltbMV0sXCJQaXp6YVwiLFtbWzEsW251bGwsWzJdXV1dXSwxOCxcIkNCST1cIixudWxsLDEsXCJDaEFTRG1OMWFYTnBibVZmWm1sc2RHVnlJQUU9XCIsW251bGwsbnVsbCxudWxsLFszMC4xMTk3OTg2LDMxLjUzNzAwMDNdXSxudWxsLDFdIixudWxsLCJnZW5lcmljIl1dXQ%3D%3D&q=Pizza"
+  }
+}

@@ -1,42 +1,66 @@
-import React, { useState } from 'react';
-import { View, Text, TextInput, Button } from 'react-native';
+import React, { useEffect } from 'react';
+import { View, Text, StyleSheet } from 'react-native';
 import { styled } from 'nativewind';
-import { Link } from 'expo-router';
+import { useRouter } from 'expo-router';
+import { LinearGradient } from 'expo-linear-gradient';
+import LazyImage from './LazyImage';
+
 
 const StyledView = styled(View);
 const StyledText = styled(Text);
-const StyledTextInput = styled(TextInput);
-const StyledLink = styled(Link);
 
-export default function LoginForm() {
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
 
-  const handleLogin = () => {
-    // Add login logic here
-  };
+export default function SplashScreen () {
+  const router = useRouter();
+  
+  const logo:any =require('../assets/images/Vector.png');
+
+  // Redirect to welcome page after 5 seconds
+  React.useEffect(() => {
+    console.log("SplashScreen in");
+    
+    const timer = setTimeout(() => {
+      router.replace('/WelcomeScreen');
+    }, 5000);
+
+    return () => clearTimeout(timer);
+  }, [router]);
 
   return (
-    <StyledView className="flex-1 items-center justify-center bg-white  p-4 gap-y-2">
-      <StyledText className="text-2xl font-bold ">Login to Continue</StyledText>
-      <StyledView className='w-2/3 gap-y-2'>
-
-
-      <StyledTextInput
-        className="border border-gray-300 rounded px-3 py-1 "
-        placeholder="Username"
-        value={username}
-        onChangeText={setUsername}
-      />
-      <StyledTextInput
-        className="border border-gray-300 rounded px-3 py-1 "
-        placeholder="Password"
-        secureTextEntry
-        value={password}
-        onChangeText={setPassword}
-      />
-      </StyledView>
-      <StyledLink className='bg-gray-500 text-white rounded-lg px-3 py-1' href="./MainPage">Login</StyledLink>
+    <StyledView  style={styles.container}>
+      <LinearGradient
+        colors={['rgba(245, 71, 100, 0.7)', '#F54764']}
+        locations={[0, 0.8]}
+        style={styles.gradient}
+      >
+         <LazyImage
+                source={logo} // Make sure the path is correct
+                style={styles.logo}
+              />
+        <StyledText className="text-white text-5xl font-bold ">FOOD HUB</StyledText>
+      </LinearGradient>
     </StyledView>
   );
 }
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor:"white"
+
+  },
+  gradient: {
+    width: "100%",
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    textAlign:'center',
+    gap: 10,
+    paddingBottom:60
+  
+  },
+  logo: {
+    width: 150, // Adjust size as needed
+    height: 150,
+    objectFit:"contain"
+  },
+});

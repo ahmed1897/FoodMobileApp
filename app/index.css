@@ -1,0 +1,3 @@
+.bg-custom-gradient {
+    background-color: linear-gradient(to top, rgb(255, 105, 105), rgb(255, 75, 100));
+}
